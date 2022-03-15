@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/gaburolo/Taller/Tarea_1/Client/src/services/add_service.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+curl/curl.h
+-
+add_service.h
+/home/gaburolo/Taller/Tarea_1/Client/src/services/add_service.h
+encode_b64.h
+/home/gaburolo/Taller/Tarea_1/Client/src/services/encode_b64.h
+
+/home/gaburolo/Taller/Tarea_1/Client/src/services/add_service.h
+
+/home/gaburolo/Taller/Tarea_1/Client/src/services/encode_b64.h
+stdio.h
+-
+

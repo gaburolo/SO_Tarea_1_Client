@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/gaburolo/Taller/Tarea_1/Client/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/Client.dir/src/main.c.o   -c /home/gaburolo/Taller/Tarea_1/Client/src/main.c",
+  "file": "/home/gaburolo/Taller/Tarea_1/Client/src/main.c"
+},
+{
+  "directory": "/home/gaburolo/Taller/Tarea_1/Client/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/Client.dir/src/services/add_service.c.o   -c /home/gaburolo/Taller/Tarea_1/Client/src/services/add_service.c",
+  "file": "/home/gaburolo/Taller/Tarea_1/Client/src/services/add_service.c"
+},
+{
+  "directory": "/home/gaburolo/Taller/Tarea_1/Client/build",
+  "command": "/bin/x86_64-linux-gnu-gcc-9   -g   -o CMakeFiles/Client.dir/src/services/encode_b64.c.o   -c /home/gaburolo/Taller/Tarea_1/Client/src/services/encode_b64.c",
+  "file": "/home/gaburolo/Taller/Tarea_1/Client/src/services/encode_b64.c"
+}
+]

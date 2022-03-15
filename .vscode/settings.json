@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "add_service.h": "c",
+        "curl.h": "c"
+    }
+}
